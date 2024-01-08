@@ -2,7 +2,6 @@
 
 import { useTheme } from "@/app/context/theme-context";
 import React from "react";
-import { BsMoon, BsSun } from "react-icons/Bs";
 import { CiLight } from "react-icons/ci";
 import { IoMoonOutline } from "react-icons/io5";
 
