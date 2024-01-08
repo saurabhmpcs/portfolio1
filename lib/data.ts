@@ -60,6 +60,7 @@ export const projectsData = [
       "It's a chatting application where user can chat and make personal rooms for interaction through text, voice and media files",
     tags: ["React", "Next.js", "MaterialUi", "Firebase"],
     imageUrl: img2,
+    link: "https://chaton-c2955.web.app/",
   },
   {
     title: "JSM Headphones",
@@ -67,12 +68,14 @@ export const projectsData = [
       "Ecommerce application for selling premium headphones with online payment integration through react",
     tags: ["React", "Next.js", "Sanity", "Stripe"],
     imageUrl: img3,
+    link: "https://ecommerce-lime-pi.vercel.app/",
   },
   {
     title: "Netflix-Gpt",
     description: "Netflix clone with openAi integration for movie suggestion",
     tags: ["React", "Vite", "Firebase", "Tailwind", "Redux"],
     imageUrl: img6,
+    link: "https://netflix-gpt-mr4p.vercel.app/",
   },
 ] as const;
 
