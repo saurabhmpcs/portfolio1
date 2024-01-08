@@ -9,7 +9,8 @@ import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import profile from "@/public/profile.jpg";
 import { useActiveSectionContext } from "@/app/context/active-section-context";
-import { BsArrowRight, BsLinkedin } from "react-icons/Bs";
+import { FaArrowRightLong } from "react-icons/fa6";
+import { GrLinkedin } from "react-icons/gr";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -87,7 +88,7 @@ export default function Intro() {
           }}
         >
           Contact me here{" "}
-          <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
+          <FaArrowRightLong className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
 
         <a
@@ -104,7 +105,7 @@ export default function Intro() {
           href="https://linkedin.com"
           target="_blank"
         >
-          <BsLinkedin />
+          <GrLinkedin />
         </a>
 
         <a
