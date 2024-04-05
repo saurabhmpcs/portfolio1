@@ -22,17 +22,14 @@ export default function About() {
         After graduating with a degree in{" "}
         <span className="font-medium">Electronics Engineering</span>, I decided
         to pursue my passion for programming. I enrolled in a coding bootcamp
-        and learned <span className="font-medium">Frontend development</span>.{" "}
+        and learned <span className="font-medium">Backend development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, TailwindCss, Javascript,
-        </span>
-        . I am also familiar with TypeScript , Redux and Firebase. I am always
-        looking to learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">Frontend Intenship</span> as a software
+        is <span className="font-medium">MERN</span>. I am also familiar with
+        TypeScript , Redux and Firebase. I am always looking to learn new
+        technologies. I am currently looking for a{" "}
+        <span className="font-medium">Backend engineer Job</span> as a software
         developer.
       </p>
 
